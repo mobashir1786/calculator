@@ -1,0 +1,24 @@
+.whole{
+    text-align: center;
+    margin: 100px 0px;
+}
+button{
+    width: 50px;
+    height: 55px;
+    margin: 2px;
+    padding: 5px;
+    background-color: antiquewhite;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 24px;
+}
+input{
+    width: 210px;
+    height: 35px;
+    margin: 2px;
+    padding: 5px;
+    background-color: azure;
+    border: 2px solid black;
+    border-radius: 5px;
+}
